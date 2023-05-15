@@ -1,2 +1,2 @@
-# LGM-VIP-Irix-Flower-Classification
-This is 1st task assigned from LGM-VIP. In this task classify the IRIS flower using Python
+# LGMVIP_Data_Science-Task1_Iris_Flowers_Classification_ML_Project
+These Project based on the Data Science. In these we are classify the irix flower  
